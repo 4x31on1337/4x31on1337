@@ -2,7 +2,7 @@
 
 <img align="right" alt="4x31's Github Stats" src="https://github-readme-stats.vercel.app/api?username=4x31on1337&show_icons=true&hide_border=true" />
 
-- 💻 Je suis étudiant, développeur par ennuie
+- 💻 Je suis étudiant, développeur par temps libre
 - 🦾 Je développe pour le plaisir donc oklm
 
 ---
